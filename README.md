@@ -34,7 +34,7 @@ Organizar as histórias de forma clara e acessível, para facilitar a compreens�
 
 - Este projeto é **exclusivamente educacional**.
 - Todos os artefatos foram desenvolvidos com base nas instruções da disciplina.
-- Sinta-se à vontade para deixar o repositório mais florido com emojis, cores e organização. 🌸🌻
+-  🌸🌻
 
 ---
 
